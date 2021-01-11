@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+- 🔭 I’m currently working on tooling for a major media platform
+- 🌱 I’m currently learning Polkadot
+- 👯 I’m looking to collaborate on NewYorkCoin
+- 🤔 I’m looking for help with NewYorkCoin
+- 💬 Ask me about React Hooks
+- 📫 How to reach me:
+    - Telegram: https://telegram.me/cmelion
+    - Discord: `cmelion#3688` Discord ID: `402111999145672706`
+- ⚡ Fun fact: I've architected enterprise applications for the U.S. Navy and the City of NewYork - using XSLT - believe it or not!
+
+
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
