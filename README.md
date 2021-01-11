@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Polkadot
 - 👯 I’m looking to collaborate on NewYorkCoin
 - 🤔 I’m looking for help with NewYorkCoin
-- 💬 Ask me about React Hooks
+- 💬 Ask me about React Hooks and Redux
 - 📫 How to reach me:
     - Telegram: https://telegram.me/cmelion
     - Discord: `cmelion#3688` Discord ID: `402111999145672706`
