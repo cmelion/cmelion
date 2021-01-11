@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on tooling for a major media platform
-- 🌱 I’m currently learning Polkadot
+- 🌱 I’m currently learning Polkadot/Substrate
 - 👯 I’m looking to collaborate on NewYorkCoin
 - 🤔 I’m looking for help with NewYorkCoin
 - 💬 Ask me about React Hooks and Redux
