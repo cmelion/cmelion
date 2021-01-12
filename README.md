@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-# Git Awards
+### Git Awards
 [Rankings](http://git-awards.com/users/cmelion)
