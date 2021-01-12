@@ -37,3 +37,12 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+### Repo Stats
+* Forks ![GitHub forks](https://img.shields.io/github/forks/cmelion/cmelion?style=social)
+* Stars ![GitHub stars](https://img.shields.io/github/stars/cmelion/cmelion?style=social)
+* StarGazers ![GitHub watchers](https://img.shields.io/github/watchers/cmelion/cmelion?style=social)
+* Commits ![GitHub last commit](https://img.shields.io/github/last-commit/cmelion/cmelion)
+* Repo Size ![GitHub repo size](https://img.shields.io/github/repo-size/cmelion/cmelion)
+* Issues open ![GitHub issues](https://img.shields.io/github/issues-raw/cmelion/cmelion)
+* Pull Requests open ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/cmelion/cmelion)
