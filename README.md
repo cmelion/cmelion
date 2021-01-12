@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
     - Telegram: https://telegram.me/cmelion
     - Discord: `cmelion#3688` Discord ID: `402111999145672706`
-- ⚡ Fun fact: I've architected enterprise applications for the U.S. Navy and the City of NewYork - using XSLT - believe it or not!
+- ⚡ Fun fact: I've architected enterprise applications for the U.S. Navy and the City of New York - using XSLT - believe it or not!
 
 
 <table>
